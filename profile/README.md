@@ -98,19 +98,19 @@ LumenKit ecosystem consists of three main repositories:
 - Demo site showcasing LumenKit capabilities
 - Interactive examples and documentation
 - Built with React + TypeScript + Vite
-- **Repository**: [lumina-kit-website](https://github.com/your-username/lumina-kit-website)
+- **Repository**: [lumina-kit-website](https://github.com/luminakit-stellar/website)
 
 ### 2. **LumenKit Library**
 - Core library for Stellar wallet integration
 - UI components and wallet management
 - TypeScript library with full type definitions
-- **Repository**: [lumenkit](https://github.com/your-username/lumenkit)
+- **Repository**: [lumenkit](https://github.com/luminakit-stellar/lumenkit)
 
 ### 3. **GenAI Backend**
 - Multi-agent AI system for smart contract analysis
 - Web scraping capabilities for code extraction
 - Automated report generation and PR creation
-- **Repository**: [lumina-kit-genai](https://github.com/your-username/lumina-kit-genai)
+- **Repository**: [lumina-kit-genai](https://github.com/luminakit-stellar/genai)
 
 ## 🚀 Quick Start
 
