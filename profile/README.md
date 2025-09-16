@@ -148,41 +148,6 @@ function TransactionComponent() {
 }
 ```
 
-## 🔧 Development
-
-### Prerequisites
-- Node.js 18+
-- npm or pnpm
-- Stellar Testnet account
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/lumina-kit.git
-cd lumina-kit
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Repository Structure
-
-```
-LumenKit Ecosystem:
-├── lumina-kit/           # Main repository (this README)
-├── lumina-kit-website/   # Demo site and documentation
-├── lumenkit/             # Core library
-└── lumina-kit-genai/     # AI agents and web scraping
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Workflow
 
 1. Fork the repository
@@ -191,27 +156,18 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [RainbowKit](https://www.rainbowkit.com/) for the amazing UI inspiration
 - [Stellar Development Foundation](https://stellar.org) for the incredible blockchain platform
 - The open-source community for continuous support and feedback
 
-## 📞 Support
-
-- **Documentation**: [lumina-kit.vercel.app](https://lumina-kit.vercel.app)
-- **Issues**: [GitHub Issues](https://github.com/your-username/lumina-kit/issues)
-- **Discord**: [Join our community](https://discord.gg/lumina-kit)
 
 ## 🔗 Related Repositories
 
-- **[LumenKit Library](https://github.com/your-username/lumenkit)** - Core Stellar wallet integration library
-- **[Website & Demo](https://github.com/your-username/lumina-kit-website)** - Interactive demo
-- **[GenAI Backend](https://github.com/your-username/lumina-kit-genai)** - AI agents and smart contract analysis
+- **[LumenKit Library](https://github.com/luminakit-stellar/lumenkit)** - Core Stellar wallet integration library
+- **[Website & Demo](https://github.com/luminakit-stellar/website)** - Interactive demo
+- **[GenAI Backend](https://github.com/luminakit-stellar/genai)** - AI agents and smart contract analysis
 
 ---
 
